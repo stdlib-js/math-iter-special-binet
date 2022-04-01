@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/math-iter-special-binet",
+  "version": "0.0.0",
+  "description": "Create an iterator which evaluates Binet's formula for each iterated value.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/math-iter-special-binet.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "math",
+    "special function",
+    "special",
+    "function",
+    "binet",
+    "fibonacci",
+    "fib",
+    "iterator",
+    "iterable",
+    "iterate"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
